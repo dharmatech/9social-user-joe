@@ -1,6 +1,6 @@
 id: joe-1972-12-11-nroff
 author: joe
-date: 1972-12-11
+date: 1972-12-11T15:15:00Z
 title: Improving text formatting with nroff
 
 I’ve been working on improving the text formatting tools. Took over the existing roff work and pushed it toward something more useful on terminals—calling it nroff. Adding macros makes it a lot more flexible. It’s satisfying to see documentation becoming easier to produce and maintain.

@@ -1,6 +1,6 @@
 id: joe-1973-10-05-troff
 author: joe
-date: 1973-10-05
+date: 1973-10-05T16:20:00Z
 title: Troff and the phototypesetter
 
 We got access to a phototypesetter, which opens up some interesting possibilities. I’ve been adapting the formatter to drive it—this version we’re calling troff. It’s still evolving, but it already looks promising for producing proper printed documents, not just terminal output.
