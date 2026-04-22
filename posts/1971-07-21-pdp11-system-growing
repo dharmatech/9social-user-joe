@@ -1,0 +1,6 @@
+id: joe-1971-07-21-pdp11
+author: joe
+date: 1971-07-21
+title: System becoming useful on PDP-11
+
+Learning the PDP-7 and now the PDP-11 has been a good exercise. We’ve got a working system with a file system, assembler, and some utilities in place. It’s still rough, but people are starting to use it for real work. I’ve been helping get the lab set up so others can try it out.

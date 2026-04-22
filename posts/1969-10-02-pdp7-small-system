@@ -1,0 +1,6 @@
+id: joe-1969-10-02-pdp7
+author: joe
+date: 1969-10-02
+title: A smaller system on the PDP-7
+
+Some of us have been experimenting with a smaller system on a PDP-7 after stepping away from Multics. Ken’s been driving most of it, but a few of us are pitching in. It’s a lot more manageable. We’re putting together a file system and some basic tools—nothing fancy, just trying to make it usable.
