@@ -1,0 +1,10 @@
+id: 9social:post:5a6118ed-f894-4e9d-8e84-c20ea45f74b9:f6d240b1-c112-4d81-8dde-09cc106706a9
+author: joe
+date: 2026-05-02T03:07:00Z
+title: A smaller system on the PDP-7
+
+Some of us have been experimenting with a smaller system on a PDP-7 
+after stepping away from Multics. Ken’s been driving most of it, 
+but a few of us are pitching in. It’s a lot more manageable. 
+We’re putting together a file system and some basic tools—nothing fancy, 
+just trying to make it usable.
