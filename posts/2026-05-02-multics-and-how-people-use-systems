@@ -1,0 +1,10 @@
+id: 9social:post:5a6118ed-f894-4e9d-8e84-c20ea45f74b9:999bf018-a083-44bf-bf73-8651d336f1cc
+author: joe
+date: 2026-05-02T03:05:41Z
+title: Multics and how people use systems
+
+Been spending quite a bit of time on Multics work here at Bell Labs.
+It’s an ambitious system—very general, lots of moving parts. 
+There’s interesting work in terminals and communications as well. 
+I keep thinking about how people actually use these systems day to day, 
+not just how they’re designed on paper.
